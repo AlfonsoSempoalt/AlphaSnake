@@ -1,0 +1,29 @@
+canvas {
+			border: 2px solid black;
+      background-color: #000000;
+      border-radius: 15px;
+		}
+ *{
+  font-family: 'Sunflower', sans-serif;
+   }
+ body{
+   overflow-y: hidden;
+   overflow-x: hidden;
+ }
+ 
+.titulo h1{
+  position: relative;
+  left: 800px;
+  bottom:600px ;
+}
+.infor {
+  width: 44%;
+}
+.infor p{
+  position: relative;
+  left: 680px;
+  bottom: 590px;
+  font-size: 18px;
+}
+
+ 
